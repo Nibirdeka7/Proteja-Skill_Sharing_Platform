@@ -1,0 +1,10 @@
+instead of making it an language sharing platform
+i will be making it a skill sharing platform where users will be exchanging their skills
+
+
+
+
+use    storyset.com    for cool illustration
+
+
+npm i lucide-react
